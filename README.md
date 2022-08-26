@@ -1,4 +1,7 @@
-![alt text](https://github.com/ishan-kshirsagar0-7/ishan-kshirsagar0-7/blob/main/github.jpg?raw=true)
+<!-- ![alt text](https://github.com/ishan-kshirsagar0-7/ishan-kshirsagar0-7/blob/main/github.jpg?raw=true) -->
+<p align="center">
+  <img src="https://github.com/ishan-kshirsagar0-7/ishan-kshirsagar0-7/blob/main/github.jpg">
+ </p>
 
 <h1 align="center">Hey there 👋, I'm Ishan Kshirsagar.</h1>
 <h3 align="center">I'm an Artificial Intelligence and Machine Learning enthusiast, who also likes to explore new tools and technologies.</h3>
