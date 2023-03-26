@@ -1,6 +1,6 @@
 <!-- ![alt text](https://github.com/ishan-kshirsagar0-7/ishan-kshirsagar0-7/blob/main/github.jpg?raw=true) -->
 <p align="center">
-  <img src="https://github.com/ishan-kshirsagar0-7/ishan-kshirsagar0-7/blob/main/github.jpg">
+  <img src="https://cdn.discordapp.com/attachments/1008571023047798794/1089441674138243103/idkman_Github_Logo_cat_silhouette_3d_model_reflective_surfaces__c98db23b-bb0a-4b3a-b1de-1093db15e020.png">
  </p>
 
 <h1 align="center">Hey there 👋, I'm Ishan Kshirsagar.</h1>
