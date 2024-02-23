@@ -1,6 +1,6 @@
 <!-- ![alt text](https://github.com/ishan-kshirsagar0-7/ishan-kshirsagar0-7/blob/main/github.jpg?raw=true) -->
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1008571023047798794/1089441674138243103/idkman_Github_Logo_cat_silhouette_3d_model_reflective_surfaces__c98db23b-bb0a-4b3a-b1de-1093db15e020.png" height="500" width="500">
+  <img src="https://i.ibb.co/wrp47b9/fff429e8-9dcc-45c8-8efd-69d5f93d2ebc.webp" height="500" width="500">
  </p>
 
 <h1 align="center">Hey there 👋, I'm Ishan Kshirsagar.</h1>
