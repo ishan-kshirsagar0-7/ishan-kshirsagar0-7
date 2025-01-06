@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ishan-kshirsagar0-7](https://github.com/ishan-kshirsagar0-7)
 
+- 📒 View my personal portfolio at [https://ishank07-pf.vercel.app/](https://ishank07-pf.vercel.app/)
+
 - 📫 How to reach me **: ishank20062002@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ishankshirsagar07/](https://www.linkedin.com/in/ishankshirsagar07/)
